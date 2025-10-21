@@ -4,7 +4,6 @@
  */
 
 (function ($) {
-(function ($) {
     "use strict";
 
     // Spinner - Remove loading spinner after page loads
